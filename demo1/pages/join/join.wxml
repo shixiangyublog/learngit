@@ -1,0 +1,16 @@
+<image class="banner"
+src="/images/about.png"></image>
+
+<view class='block'>
+<view class='block-title'>关于我</view>
+<text class='block-desc'>亲爱的读者你好，我是武汉理工大学自动化学院自动化卓越1501班石翔宇</text>
+</view>
+<button type='primary' bindtap='send'>请求数据</button>
+<view class='footer'>
+<button bindtap='tell'>邮箱咨询</button>
+</view>
+<block wx:for-items="{{result}}">
+    <view style="width:100%; height: 50rpx"></view>
+    <!--index默认为下标，item为每项-->
+    <text>第{{index}}条数据 {{item.content}}</text>
+</block>
