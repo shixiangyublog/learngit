@@ -1,0 +1,17 @@
+<view class='ser01'>
+  <image class='service-image1' src='/images/x001.png'></image>
+  <view class='txt-t'>
+    <view class='txt01'>
+     <text>车用灭火器年检汽车干粉消防器材车载小型便携式灭火器演示培训</text>
+    </view>
+  </view>
+</view>
+
+<view class='ser02'>
+  <image class='service-image2' src='/images/x002.png'></image>
+  <view class='txt-t2'>
+    <view class='txt02'>
+     <text>车用灭火器年检汽车干粉消防器材车载小型便携式灭火器演示培训</text>
+    </view>
+  </view>
+</view>

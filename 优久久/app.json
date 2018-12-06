@@ -1,0 +1,42 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/classify/classify",
+    "pages/service/service",
+    "pages/mine/mine"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ff0000",
+    "navigationBarTitleText": "武汉理工大学",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#ff0000",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/ic_home_normal.png",
+      "selectedIconPath": "images/ic_home_pressed.png"
+    },
+    {
+      "pagePath": "pages/classify/classify",
+      "text": "分类",
+      "iconPath": "images/ic_logs_normal.png",
+      "selectedIconPath": "images/ic_logs_pressed.png"
+    },
+    {
+      "pagePath": "pages/service/service",
+      "text": "服务",
+      "iconPath": "images/ic_service_normal.png",
+      "selectedIconPath": "images/ic_service_pressed.png"
+    },
+    {
+      "pagePath": "pages/mine/mine",
+      "text": "我的",
+      "iconPath": "images/ic_mine_normal.png",
+      "selectedIconPath": "images/ic_mine_pressed.png"
+    }]
+  }
+}
