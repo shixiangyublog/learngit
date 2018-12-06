@@ -1,0 +1,142 @@
+page{
+  background: #f3f3f3;
+}
+/*搜索框*/
+.page_row{
+  background: #fff;
+  margin-top: 10rpx;
+  padding-bottom: 10rpx;
+}
+.search{  
+      width: 80%;
+    }  
+    .search_arr {  
+      border: 1px solid #d0d0d0;  
+      border-radius: 50rpx;  
+      margin-left: 20rpx;  
+    }  
+    .search_arr input{  
+      margin-left: 60rpx;  
+      height: 60rpx; 
+      border-radius: 50rpx;  
+      font-size: 32rpx;  
+    }  
+    .bc_text {  
+      line-height: 68rpx;  
+      height: 68rpx;  
+      margin-top: 34rpx;  
+    }  
+
+    .sousuo {  
+      margin-left: 15rpx;  
+      width: 15%;  
+      line-height: 1.5;  
+      text-align: center;  
+      border: 1px solid #d0d0d0;  
+      border-radius: 50rpx;
+    }  
+    .page_row{  
+      display: flex;  
+      flex-direction: row  
+    }  
+    .searchcion {  
+      margin: 10rpx 10rpx 10rpx 10rpx;  
+      position: absolute;  
+      left:25rpx;  
+      z-index: 2;  
+      width: 20px;  
+      height: 20px;  
+      text-align: center;  
+    }
+
+/*列表*/
+.lie01{
+  padding-top:10rpx;
+
+}
+.lie02{
+
+}
+.lie03{
+  background: #f3f3f3;
+  overflow: hidden;
+  float: left;
+  width: 200rpx;
+  height: 10000rpx;
+  text-align: center;
+}
+.biao2{
+  background: #fff;
+  overflow: hidden;
+  float: left;
+  width: 200rpx;
+  height: 88rpx;
+  
+}
+.biao1{
+  overflow: hidden;
+  float: left;
+  width: 200rpx;
+  height: 88rpx;
+}
+.biao01{
+  color:#1C1A1A;
+  font-size: 28rpx;
+  line-height: 1;
+}
+
+/*列表2*/
+.lie041{
+  background: #fff;
+}
+.lie-body1{
+  overflow: hidden;
+  float: left;
+  width: 275rpx;
+  height: 372rpx;
+}
+.sx-01{
+  
+  width: 257rpx;
+  height: 236rpx;
+  margin-left: 14rpx;
+}
+.sx-02{
+  color:#222020;
+  font-size: 28rpx;
+  line-height: 1;
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+}
+.sx-03{
+  color:#F91B27;
+  font-size: 30rpx;
+  line-height: 1;
+  margin-top: 12rpx;
+  margin-left: 20rpx;
+}
+.lie-body2{
+  overflow: hidden;
+  width: 275rpx;
+  height: 372rpx;
+}
+.sx-04{
+  
+  width: 257rpx;
+  height: 236rpx;
+  margin-left: 8rpx;
+}
+.sx-05{
+  color:#222020;
+  font-size: 28rpx;
+  line-height: 1;
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+}
+.sx-06{
+  color:#F91B27;
+  font-size: 30rpx;
+  line-height: 1;
+  margin-top: 12rpx;
+  margin-left: 20rpx;
+}
